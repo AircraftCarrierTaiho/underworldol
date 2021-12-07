@@ -1,0 +1,58 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "1222063971_0.37020952064028556",
+                "condition": [],
+                "type": "UIButton",
+                "name": "Login",
+                "x": 560,
+                "y": 369,
+                "width": 256,
+                "height": 84,
+                "opacity": 1,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "mouseEventEnabledInEditor": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "image1": "asset/image/picture/UI/cardCollect/button.png",
+                "image2": "asset/image/picture/UI/cardCollect/button.png",
+                "image3": "",
+                "grid9": "",
+                "children": [
+                    {
+                        "id": "1550576546_0.5338580506424333",
+                        "condition": [],
+                        "type": "UIString",
+                        "name": "文本",
+                        "x": 0,
+                        "y": 4,
+                        "width": 256,
+                        "height": 59,
+                        "opacity": 1,
+                        "rotation": 0,
+                        "show": true,
+                        "mouseEventEnabledData": false,
+                        "mouseEventEnabledInEditor": true,
+                        "showOnEditor": true,
+                        "hasCommand": [],
+                        "text": "LOGIN",
+                        "fontSize": 35,
+                        "color": "#ffffff",
+                        "bold": false,
+                        "align": 1,
+                        "leading": 0,
+                        "font": "微软雅黑",
+                        "wordWrap": true,
+                        "overflow": 0,
+                        "valign": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "id": 1,
+    "instanceClassName": ""
+}

@@ -1,0 +1,24 @@
+{
+    "sceneObjects": [],
+    "customCommands": [
+        [
+            [
+                73,
+                3001
+            ],
+            [
+                73,
+                2
+            ],
+            [
+                72,
+                4
+            ]
+        ],
+        []
+    ],
+    "behaviors": [],
+    "customAttributes": [],
+    "events": [],
+    "id": 2
+}
