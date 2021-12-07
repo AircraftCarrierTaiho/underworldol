@@ -1,5 +1,6 @@
 # underworldonline
-this is a trade card game and on blockchain
+this is a **NFT** based card game and on blockchain.
+Player can play this game to get more NFT card and sell to earn.
 #### gameplay
 underworld is a TCGwhere players will take on the role of a hidden association and then compete for areas. The areas that are contested are counted as points. The first side to reach a given score wins.
 #### Regarding the game's worldview, it is a fictional world that is parallel to reality.
